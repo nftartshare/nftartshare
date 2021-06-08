@@ -310,6 +310,7 @@ export class NftCardFrontTemplate extends LitElement {
           ></div>
         </a>
       </div>
+      <img src="${imageUrl}" width="0" height="0">
     `
   }
 
